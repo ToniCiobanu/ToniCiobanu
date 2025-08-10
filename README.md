@@ -1,4 +1,4 @@
-<h1>Hi, I'm Toni! <br/><a href="https://github.com/ToniCiobanu">Data Analyst</a>, <a href="https://https://www.youtube.com/@tonistakeoneverything/">Data YouTuber </a></h1>
+<h1>Hi, I'm Toni! <br/><a href="https://github.com/ToniCiobanu">Data Analyst</a>, <a href="https://youtube.com/@tonistakeoneverything?si=MMliLJXoKGZfymzA">Data YouTuber </a></h1>
 
 <h2>👨‍💻 School Projects:</h2>
 
